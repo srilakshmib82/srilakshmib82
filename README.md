@@ -2,29 +2,33 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:020617,40:0F172A,100:164E63&text=HEMA%20VENKATA%20SRILAKSHMI&fontSize=35&fontColor=67E8F9&fontAlignY=40&desc=SOFTWARE%20DEVELOPER%20%7C%20DATA%20SCIENCE%20ENTHUSIAST&descSize=14&descColor=CBD5E1&descAlignY=60&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:164E63&height=200&section=header&text=HEMA%20VENKATA%20SRILAKSHMI&fontSize=34&fontColor=67E8F9&fontAlignY=38&desc=Software%20Developer%20%7C%20Data%20Science%20Enthusiast&descSize=15&descColor=CBD5E1&descAlignY=58"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Building+Projects+with+Python+%26+JavaScript;Exploring+Full+Stack+Development;Learning+DSA+and+Problem+Solving;Always+Learning+Something+New!" />
+### 👋 Hello, I'm Srilakshmi!
 
-<br/><br/>
+**Computer Science & Data Science Student | Aspiring Software Developer**
+
+💻 Building Projects | 🌱 Learning New Technologies | 🚀 Improving Every Day
+
+<br/>
 
 <a href="https://github.com/srilakshmib82">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/b-hema-venkata-srilakshmi-7b6661296">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://leetcode.com/u/YW8SdOm10K/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=srilakshmib82&label=PROFILE+VIEWS&color=0891b2&style=for-the-badge"/>
-
 </div>
+
+---
 
 ---
 
