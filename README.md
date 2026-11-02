@@ -1,14 +1,12 @@
-<!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:164E63&height=200&section=header&text=HEMA%20VENKATA%20SRILAKSHMI&fontSize=34&fontColor=67E8F9&fontAlignY=38&desc=Software%20Developer%20%7C%20Data%20Science%20Enthusiast&descSize=15&descColor=CBD5E1&descAlignY=58"/>
 
 <br/>
 
-### 👋 Hello, I'm Srilakshmi!
+# 👋 Hello, I'm Srilakshmi!
 
-**Computer Science & Data Science Student | Aspiring Software Developer**
+### Computer Science & Data Science Student | Aspiring Software Developer
 
 💻 Building Projects | 🌱 Learning New Technologies | 🚀 Improving Every Day
 
@@ -17,60 +15,34 @@
 <a href="https://github.com/srilakshmib82">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/b-hema-venkata-srilakshmi-7b6661296">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://leetcode.com/u/YW8SdOm10K/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=srilakshmib82&label=PROFILE%20VIEWS&color=0891b2&style=for-the-badge"/>
 
 </div>
 
 ---
 
----
-
 ## ✨ About Me
-
-```python
-class Developer:
-
-    def __init__(self):
-        self.name = "Hema Venkata Srilakshmi"
-        self.education = "B.Tech - Computer Science & Data Science"
-        self.college = "R.V.R. & J.C. College of Engineering"
-        self.location = "Guntur, Andhra Pradesh"
-        self.interests = [
-            "Software Development",
-            "Frontend Development",
-            "Data Science",
-            "Machine Learning",
-            "Problem Solving"
-        ]
-
-    def currently_learning(self):
-        return [
-            "Data Structures & Algorithms",
-            "Full Stack Development",
-            "Advanced Python",
-            "JavaScript"
-        ]
-
-me = Developer()
-```
 
 I'm a Computer Science and Data Science undergraduate interested in developing practical software applications and exploring new technologies.
 
 I enjoy learning programming concepts, building projects, solving coding problems, and improving my technical skills through continuous practice.
 
-- 🎓 Computer Science and Data Science undergraduate.
+- 🎓 Pursuing B.Tech in Computer Science and Data Science.
+- 🏫 R.V.R. & J.C. College of Engineering, Guntur.
 - 💻 Interested in software and web application development.
 - 🌐 Exploring frontend and full-stack technologies.
 - 🧠 Interested in Machine Learning and Natural Language Processing.
 - 🔍 Regularly practicing Data Structures and Algorithms.
-- 🚀 Focused on building practical projects and improving problem-solving skills.
+- 🚀 Focused on continuous learning and professional growth.
 
 ---
 
@@ -80,46 +52,39 @@ I enjoy learning programming concepts, building projects, solving coding problem
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,c,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,c,js&theme=dark"/>
 
 ### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&theme=dark"/>
 
 ### Backend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark"/>
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
 
 ### Machine Learning & Data Science
 
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark" />
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark"/>
 
 ### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws&theme=dark"/>
 
 </div>
 
-**Additional technologies:** Oracle SQL, Power BI, Google Colab, Jupyter Notebook, Scikit-learn, spaCy.
+**Additional Technologies:** Oracle SQL, Power BI, Google Colab, Jupyter Notebook, spaCy and Scikit-learn.
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### 🛒 1. Shopping App – MERN Stack
 
-### 🛒 Shopping App – MERN Stack
-
-<img src="https://img.shields.io/badge/Full%20Stack-MERN-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Status-Developed-16A34A?style=for-the-badge"/>
-
-</div>
-
-A full-stack shopping application developed using MongoDB, Express.js, React.js and Node.js. It provides an interface for browsing products and managing shopping activities.
+A full-stack shopping application developed using MongoDB, Express.js, React.js and Node.js.
 
 **Key Features**
 
@@ -140,18 +105,9 @@ A full-stack shopping application developed using MongoDB, Express.js, React.js 
 | Backend | Node.js, Express.js |
 | Database | MongoDB |
 | API Integration | Axios |
-| Development Tools | VS Code, Git, GitHub |
+| Tools | VS Code, Git, GitHub |
 
----
-
-<div align="center">
-
-### 🤖 Chatbot Language Understanding Module
-
-<img src="https://img.shields.io/badge/Domain-NLP-0891B2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge"/>
-
-</div>
+### 🤖 2. Chatbot Language Understanding Module
 
 A Python-based Natural Language Processing module designed to understand user messages and identify their corresponding intents.
 
@@ -184,13 +140,13 @@ The module processes text inputs and uses machine learning techniques to find th
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=srilakshmib82&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=38BDF8&text_color=CBD5E1"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=srilakshmib82&theme=tokyonight&hide_border=true&background=020617&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE" width="85%" alt="GitHub Contribution Streak"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srilakshmib82&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1"/>
+<br/>
 
-<br/><br/>
-
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=srilakshmib82&theme=tokyonight&hide_border=true&background=020617&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE"/>
+<a href="https://github.com/srilakshmib82">
+<img src="https://img.shields.io/badge/Explore%20My-GitHub%20Repositories-0F172A?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
@@ -204,14 +160,14 @@ The module processes text inputs and uses machine learning techniques to find th
 
 <a href="https://leetcode.com/u/YW8SdOm10K/">
 
-<img src="https://leetcard.jacoblin.cool/YW8SdOm10K?theme=dark&font=Baloo&ext=heatmap" width="85%"/>
+<img src="https://leetcard.jacoblin.cool/YW8SdOm10K?theme=dark&font=Baloo&ext=heatmap" width="85%" alt="LeetCode Statistics"/>
 
 </a>
 
 <br/>
 
 <a href="https://leetcode.com/u/YW8SdOm10K/">
-<img src="https://img.shields.io/badge/VIEW%20LEETCODE%20PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/VIEW%20MY%20LEETCODE%20PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 </div>
@@ -220,11 +176,7 @@ The module processes text inputs and uses machine learning techniques to find th
 
 ## 🐍 Contribution Activity
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/srilakshmib82/srilakshmib82/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
-
-</div>
+My GitHub contribution activity is available on my [GitHub profile](https://github.com/srilakshmib82).
 
 ---
 
@@ -243,7 +195,8 @@ The module processes text inputs and uses machine learning techniques to find th
 - 🌐 Completed Web Development Internship at Skillcraft Technology.
 - 💻 Completed Python Full Stack Virtual Internship.
 - 🧠 Completed Quantum Computing Fundamentals course.
-- 👩‍💻 Solved 250+ coding problems and maintained a consistent LeetCode practice streak.
+- 👩‍💻 Solved 450+ coding problems on LeetCode.
+- 🔥 Maintained a consistent coding practice streak.
 - 🚀 Participated in Smart Idea Hackathon.
 - 🤝 Participated in NSS Special Camp and college volunteering activities.
 
@@ -253,12 +206,12 @@ The module processes text inputs and uses machine learning techniques to find th
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Software%20Development-0F172A?style=for-the-badge&logo=code&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/Full%20Stack%20Development-0F172A?style=for-the-badge&logo=react&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/Data%20Science-0F172A?style=for-the-badge&logo=python&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-0F172A?style=for-the-badge&logo=tensorflow&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/Natural%20Language%20Processing-0F172A?style=for-the-badge&logo=openai&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/Problem%20Solving-0F172A?style=for-the-badge&logo=leetcode&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/Software%20Development-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full%20Stack%20Development-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Science-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-0F172A?style=for-the-badge"/>
 
 </div>
 
@@ -269,15 +222,15 @@ The module processes text inputs and uses machine learning techniques to find th
 <div align="center">
 
 <a href="https://github.com/srilakshmib82">
-<img src="https://img.shields.io/badge/GitHub-srilakshmib82-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-SRILAKSHMIB82-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/b-hema-venkata-srilakshmi-7b6661296">
-<img src="https://img.shields.io/badge/LinkedIn-Hema%20Venkata%20Srilakshmi-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-HEMA%20VENKATA%20SRILAKSHMI-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://leetcode.com/u/YW8SdOm10K/">
-<img src="https://img.shields.io/badge/LeetCode-YW8SdOm10K-FFA116?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-YW8SDOM10K-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
 </div>
@@ -288,8 +241,8 @@ The module processes text inputs and uses machine learning techniques to find th
 
 ### 💙 Thank You for Visiting My Profile!
 
-*Keep Learning. Keep Building. Keep Growing.*
+**Keep Learning. Keep Building. Keep Growing.**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:164E63,50:0F172A,100:020617&height=130&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:164E63,50:0F172A,100:020617&height=120&section=footer"/>
 
 </div>
